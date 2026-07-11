@@ -317,9 +317,4 @@ The notebook includes **15+ visualizations**:
 - 🔲 **Confusion Matrix Heatmap** — Best model performance
 - 🟢 **Null Value Heatmap** — Data quality check
 
----
 
-<p align="center">
-  <strong>Built with ❤️ for smarter customer retention</strong><br/>
-  <sub>If you found this project useful, consider giving it a ⭐</sub>
-</p>
